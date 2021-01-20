@@ -1,0 +1,12 @@
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindServices\NorthwindServices\bin\Debug\NorthwindServices.dll.config
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindServices\NorthwindServices\bin\Debug\NorthwindServices.dll
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindServices\NorthwindServices\bin\Debug\NorthwindServices.pdb
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindServices\NorthwindServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindServices\NorthwindServices\obj\Debug\NorthwindServices.dll
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindServices\NorthwindServices\obj\Debug\NorthwindServices.pdb
+C:\Laxmikant\D\Applications\dotnetbloggers - code\FaultContract\NorthwindServices\bin\Debug\NorthwindServices.dll.config
+C:\Laxmikant\D\Applications\dotnetbloggers - code\FaultContract\NorthwindServices\bin\Debug\NorthwindServices.dll
+C:\Laxmikant\D\Applications\dotnetbloggers - code\FaultContract\NorthwindServices\bin\Debug\NorthwindServices.pdb
+C:\Laxmikant\D\Applications\dotnetbloggers - code\FaultContract\NorthwindServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Laxmikant\D\Applications\dotnetbloggers - code\FaultContract\NorthwindServices\obj\Debug\NorthwindServices.dll
+C:\Laxmikant\D\Applications\dotnetbloggers - code\FaultContract\NorthwindServices\obj\Debug\NorthwindServices.pdb

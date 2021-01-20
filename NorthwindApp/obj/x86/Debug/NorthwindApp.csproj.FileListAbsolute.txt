@@ -1,0 +1,6 @@
+C:\Laxmikant\D\Applications\dotnetbloggers - code\FaultContract\NorthwindApp\bin\Debug\NorthwindApp.exe
+C:\Laxmikant\D\Applications\dotnetbloggers - code\FaultContract\NorthwindApp\bin\Debug\NorthwindApp.pdb
+C:\Laxmikant\D\Applications\dotnetbloggers - code\FaultContract\NorthwindApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Laxmikant\D\Applications\dotnetbloggers - code\FaultContract\NorthwindApp\obj\x86\Debug\NorthwindApp.exe
+C:\Laxmikant\D\Applications\dotnetbloggers - code\FaultContract\NorthwindApp\obj\x86\Debug\NorthwindApp.pdb
+C:\Laxmikant\D\Applications\dotnetbloggers - code\FaultContract\NorthwindApp\bin\Debug\NorthwindApp.exe.config
